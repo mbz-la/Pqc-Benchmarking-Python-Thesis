@@ -1,4 +1,4 @@
-# PQC Benchmarking — MSc Cyber Security Thesis
+# PQC Benchmarking | MSc Cyber Security Thesis
 
 Python benchmarking scripts for a controlled performance evaluation of 
 classical, post-quantum, and hybrid cryptographic mechanisms.
